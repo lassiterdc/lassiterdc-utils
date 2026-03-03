@@ -1,0 +1,19 @@
+# Conda environment for dcl-utils
+#
+# Create:   conda env create -f environment.yaml
+# Activate: conda activate dcl_utils
+# Update:   conda env update -f environment.yaml
+# Remove:   conda deactivate && conda env remove -n dcl_utils
+name: dcl_utils
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  # development tools
+  - ruff
+  - pytest
+  - coverage
+  - ipdb
+  - pip:
+      - -e .
