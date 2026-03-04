@@ -1,4 +1,4 @@
-"""dcl-utils: Utility functions for python projects."""
+"""lassiterdc-utils: Utility functions for python projects."""
 
 __version__ = "0.1.0"
 

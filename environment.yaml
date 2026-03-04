@@ -1,10 +1,10 @@
-# Conda environment for dcl-utils
+# Conda environment for lassiterdc-utils
 #
 # Create:   conda env create -f environment.yaml
-# Activate: conda activate dcl_utils
+# Activate: conda activate lassiterdc_utils
 # Update:   conda env update -f environment.yaml
-# Remove:   conda deactivate && conda env remove -n dcl_utils
-name: dcl_utils
+# Remove:   conda deactivate && conda env remove -n lassiterdc_utils
+name: lassiterdc_utils
 channels:
   - conda-forge
 dependencies:

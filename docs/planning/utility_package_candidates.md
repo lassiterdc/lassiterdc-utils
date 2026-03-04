@@ -1,6 +1,6 @@
 # Utility Package Candidates
 
-This file tracks functions and classes that are project-agnostic — candidates for extraction into `dcl-utils`, the shared pip-installable utility package for the dcl Python ecosystem.
+This file tracks functions and classes that are project-agnostic — candidates for extraction into `lassiterdc-utils`, the shared pip-installable utility package for the dcl Python ecosystem.
 
 **Why maintain this list?**
 Generic utilities extracted into a shared package can be reused across projects without copy-pasting, versioned independently, and contributed back to the community.

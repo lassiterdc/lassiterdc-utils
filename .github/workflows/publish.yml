@@ -33,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: testpypi
-      url: https://test.pypi.org/p/dcl-utils
+      url: https://test.pypi.org/p/lassiterdc-utils
     permissions:
       id-token: write
     steps:
@@ -53,7 +53,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/dcl-utils
+      url: https://pypi.org/p/lassiterdc-utils
     permissions:
       id-token: write
     steps:

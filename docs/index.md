@@ -1,4 +1,4 @@
-# dcl-utils
+# lassiterdc-utils
 
 Utility functions for python projects.
 

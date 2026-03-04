@@ -1,7 +1,7 @@
-site_name: "dcl-utils"
+site_name: "lassiterdc-utils"
 site_description: "Utility functions for python projects"
 site_author: "Daniel Lassiter"
-repo_url: "https://github.com/lassiterdc/dcl-utils"
+repo_url: "https://github.com/lassiterdc/lassiterdc-utils"
 
 theme:
   name: material

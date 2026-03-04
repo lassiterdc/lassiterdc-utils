@@ -5,9 +5,9 @@
 Import the package and call the sample function:
 
 ```python
-import dcl_utils
+import lassiterdc_utils
 
-result = dcl_utils.hello("world")
+result = lassiterdc_utils.hello("world")
 print(result)  # Hello, world!
 ```
 

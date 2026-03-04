@@ -1,6 +1,6 @@
 # Architecture
 
-Reference document for the dcl-utils codebase. Load this alongside `CONTRIBUTING.md` at the start of any AI-assisted session.
+Reference document for the lassiterdc-utils codebase. Load this alongside `CONTRIBUTING.md` at the start of any AI-assisted session.
 
 ---
 

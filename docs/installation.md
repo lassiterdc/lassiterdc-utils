@@ -3,8 +3,8 @@
 ## Create environment
 
 ```bash
-conda create -n dcl_utils python=3.11
-conda activate dcl_utils
+conda create -n lassiterdc_utils python=3.11
+conda activate lassiterdc_utils
 ```
 
 ## Install
